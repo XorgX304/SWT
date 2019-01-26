@@ -3,7 +3,6 @@
 
 import os, sys, time
 
-os.system('sudo pip install pynput')
 os.system('clear')
 print('Please enter the info below. Save the PASSWORD!')
 time.sleep(7)
