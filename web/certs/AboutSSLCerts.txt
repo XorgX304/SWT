@@ -1,0 +1,4 @@
+Clients will make there own SSL cert's + key for the app.
+To make run the INSTALL script:
+
+  `./INSTALL`
