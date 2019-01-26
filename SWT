@@ -1,4 +1,4 @@
 #!/bin/bash
 
 python3 certmake.py
-python3 SWT-SRV.py
+python3 server.py
