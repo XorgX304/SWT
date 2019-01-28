@@ -1,7 +1,7 @@
-package nl.thedarkarmy.swt.main;
+package ml.thedarkarmy.swt.main;
 
 import net.freeutils.httpserver.HTTPServer;
-import nl.thedarkarmy.swt.pages.Pages;
+import ml.thedarkarmy.swt.pages.Pages;
 import org.jdom.Document;
 import org.jdom.Element;
 import org.jdom.input.SAXBuilder;
