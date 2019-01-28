@@ -1,4 +1,4 @@
-package nl.thedarkarmy.swt.pages;
+package ml.thedarkarmy.swt.pages;
 
 import net.freeutils.httpserver.HTTPServer.*;
 
